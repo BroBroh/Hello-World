@@ -1,0 +1,30 @@
+#blogContent {
+    color: cyan;
+}
+
+#blogId {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    height: 100px;
+}
+
+.blog {
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 14px;
+    background-color: brown !important;
+}
+
+h1 {
+    background-color: aliceblue;
+}
+
+p {
+    display: inline;
+}
+
+h1:hover {
+    font-size: 5em;
+}
